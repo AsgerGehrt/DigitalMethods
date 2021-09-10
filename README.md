@@ -1,2 +1,4 @@
 # DigitalMethods
-A selection of scripts I use in my everyday work as a ph.d. student
+A selection of scripts I wrote for analysis of Wikipedia revisions for the course Mapping Controversies. 
+
+
